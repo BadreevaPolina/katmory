@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Katmory</string>
+    <string name="texter">Текстер</string>
+    <string name="errorlet">Ошиблет</string>
+    <string name="how_play">Как играть?</string>
+    <string name="continue_text">Продолжить</string>
+    <string name="error_message">Error</string>
+    <string name="win">Так держать!</string>
+    <string name="lose">Не расстраивайся!</string>
+    <string name="main_background">Background image</string>
 </resources>
